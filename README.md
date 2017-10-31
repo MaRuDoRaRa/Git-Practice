@@ -3,4 +3,4 @@
 - merge
 - master
 - rebase
-- branch-A
+- branch-A, branch-A-1
