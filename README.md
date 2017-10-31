@@ -4,3 +4,4 @@
 - master
 - rebase
 - branch-B
+- branch-A
